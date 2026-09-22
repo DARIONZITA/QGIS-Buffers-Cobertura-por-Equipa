@@ -1,4 +1,4 @@
-# Projecto 2 — Análise de Cobertura e Distâncias (Simulação Operacional)
+# Análise de Cobertura e Distâncias (Simulação Operacional)
 
 Construção de um cenário operacional — equipas técnicas e tickets de avaria — sobre a base geográfica do Projecto 1, com análise de cobertura, distâncias e associação ticket→equipa feita tanto no QGIS como directamente em SQL espacial (PostGIS).
 
