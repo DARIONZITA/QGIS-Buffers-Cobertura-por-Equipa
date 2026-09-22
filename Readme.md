@@ -6,6 +6,8 @@ Construção de um cenário operacional — equipas técnicas e tickets de avari
 
 Simular o tipo de análise que suporta decisões operacionais no terreno: até onde chega a cobertura de uma equipa técnica, que tickets ficam fora dessa cobertura, e qual a equipa mais próxima de cada ocorrência — combinando edição manual no QGIS, geocoding via API, e consultas espaciais em SQL.
 
+![alt text](image.png)
+
 ## Fluxo de dados
 
 ```
